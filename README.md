@@ -78,7 +78,7 @@ Llamadas al tablero para colocar fichas y verificar estados.
 
 No contiene lógica de validación interna del tablero (delegada a Tablero).
 
-4. main.py (CLI)
+4. cli.py (CLI)
 
 Muestra el tablero en consola.
 
