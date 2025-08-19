@@ -19,7 +19,7 @@ El diseño sigue un enfoque de Programación Orientada a Objetos (POO) con separ
 Ejecutar el juego desde la raíz del proyecto:
 
 ```bash
-python -m src.main
+python -m src.cli
 ```
 Seguir las instrucciones en consola:
 
