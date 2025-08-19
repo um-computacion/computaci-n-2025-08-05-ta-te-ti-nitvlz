@@ -113,20 +113,3 @@ Casilla ocupada: no se permite sobreescribir jugadas.
 Empate: detecta el tablero lleno y sin ganador definido.
 
 Ganador: verifica las filas, columnas y diagonales.
-
-Estructura del proyecto:
-.
-├── src
-│   ├── cli.py          # CLI del tateti
-│   ├── tateti.py        # Lógica del juego y turnos
-│   ├── tablero.py       # Modelo y validaciones (del tablero)
-│   ├── jugador.py       # Clase Jugador
-│   ├── excepciones.py   # Excepciones 
-│
-├── test
-│   ├── test_jugador.py
-│   ├── test_tablero.py
-│   ├── test_tateti.py
-│   └── test_excepciones.py
-│
-└── README.md
